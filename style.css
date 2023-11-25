@@ -1,0 +1,127 @@
+body{
+    background-color: #000000;
+}
+#logo{
+    width: 170px;
+    height: 70px;
+    margin-left: 55px;
+}
+#navbarNav{
+    margin-right: 50px;
+}
+.nav-item{
+    padding-left: 60px;
+    font-size: 18px;
+} 
+.nav-link{
+    color: white !important;
+}
+.tabs{
+    margin-top: 86px;
+    background-color: black !important;
+    margin-bottom: 0;
+}
+.flex-container{
+    margin-top: -1px;
+    background-color: black;
+    color: white;
+    display: flex;
+    padding-top:40px;
+    padding-left: 80px;
+    padding-bottom:80px;
+}
+.form{
+    background-color: rgb(31, 31, 31);
+    padding: 30px;
+    width: 400px;
+}
+.button1{
+  background-color: #29AB87;
+  margin-top: 10px;
+}
+.info{
+    margin-left: 120px;
+    margin-top: 100px;
+    width:800px;
+}
+.text{
+    margin:10px;
+}
+.sdetails{
+    color: #29AB87;
+}
+input{
+    width:280px;
+}
+.infoo{
+    margin: 5px;
+    font-size: 17px;
+}
+#result{
+    margin-top: 10px;
+    color: white;
+    text-decoration: none;
+}
+.footer{
+    background-color: #000000;
+    height: 65px;
+    text-align: right;
+    margin: auto;
+    padding-right: 10px;
+}
+.footer-list{
+    color: white;
+    list-style-type: none;
+    display: inline;
+    margin:30px;
+}
+#list{
+   padding-top: 20px;
+}
+
+/* INDEX1 */
+.card-body{
+    box-shadow: 5px 5px 5px #474747;
+}
+.card-text{
+    list-style: none;
+}
+.edit{
+    display: inline;
+}
+#edit{
+    margin-left: 120px;
+    color: #29AB87;
+}
+.questions{
+    color: #29AB87;
+}
+.form1{
+    width:500px;
+}
+.info1{
+    width: 700px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.button2{
+    display: grid;
+    grid-template-columns:1fr 1fr ;
+    grid-template-rows:1fr 1fr ;
+    gap: 10px;
+}
+
+table{
+    width:300px;
+    text-align: center;
+}
+tr{
+    border:2px solid #29AB87 !important;
+    padding: 2px !important;
+}
+span{
+    font-size: 10px;
+    background-color: #29AB87;
+    border-radius: 35%;
+    padding: 3px;
+}
